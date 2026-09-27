@@ -1,6 +1,6 @@
 # Pong
 
-Pong game with RNG aspects.
+Pong game with RNG aspects. Download the zip, unpack, and run 'Pong.java' to play.
 
 ## Controls
 
